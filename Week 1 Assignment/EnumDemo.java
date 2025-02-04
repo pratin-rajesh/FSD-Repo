@@ -1,3 +1,4 @@
+// enum is used for values that are constant in nature.
 enum DaysOfWeek {
     SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY
 }
