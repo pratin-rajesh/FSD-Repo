@@ -4,7 +4,7 @@ public class DivisionWithNoOperators {
         int divisor = 4;
         int quotient = 0;
         int remainder = dividend;
-
+        /* while loop is used since we dont know when the number is divided till the end */
         while (remainder >= divisor) {
             remainder -= divisor;
             quotient++;
