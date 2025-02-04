@@ -1,4 +1,7 @@
 class Car {
+    /* private access modifier is used inorder to only show the general working of the code
+    but not the underlying layer of the code (encapsulation)
+    */
     private String make;
     private String model;
     private int year;
