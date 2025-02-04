@@ -3,7 +3,7 @@ abstract class Animal {
 }
 
 class Dog extends Animal {
-    @Override  //annotation is used to let the devs identify that overriding is happening 
+    @Override  //annotation is used to let the devs identify that overriding is done 
     public void makeSound() {
         System.out.println("Dog is barking.");
     }
