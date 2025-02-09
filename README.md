@@ -1,2 +1,2 @@
 # TechM-FSD-Repo
-This rep contains finished assignments assigned by Digiterati
+This rep contains finished assignments given by Digiterati
