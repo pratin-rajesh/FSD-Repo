@@ -2,7 +2,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-public class CheckPathExists {
+public class PathExistsOrNot {
     public static void main(String[] args) {
         String pathname = "E:/Java Programs/techmahindra/Week 3 Assignments/Task 3";
         Path path = Paths.get(pathname);
