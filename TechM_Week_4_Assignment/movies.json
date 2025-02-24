@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Inception",
+		"image": "images/inception.jpg",
+		"description": "Inception follows Dom Cobb, a thief who enters dreams to steal secrets. Tasked with planting an idea instead, he faces subconscious dangers, blurred reality, and a race against time.",
+		"rating": 8.8
+	},
+	{
+		"title": "The Dark Knight",
+		"image": "images/the dark knight.jpg",
+		"description": "The Dark Knight sees Batman battling the Joker, a chaotic villain testing Gotham’s morality. As the city spirals into anarchy, Bruce Wayne struggles with sacrifice, justice, and the rise of Two-Face.",
+		"rating": 9.0
+	},
+	{
+		"title": "Interstellar",
+		"image": "images/interstellar.jpg",
+		"description": "Interstellar follows astronauts on a mission through a wormhole to find a new habitable planet. As time dilates and Earth’s survival dwindles, Cooper faces love, sacrifice, and the mysteries of space.",
+		"rating": 8.6
+	}
+]
