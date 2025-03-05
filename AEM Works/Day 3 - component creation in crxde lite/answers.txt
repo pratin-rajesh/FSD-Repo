@@ -1,0 +1,11 @@
+What is Dialog Validation?
+
+Ans: Dialog validation ensures that fields are correctly filled before saving the component and can be enforced using the required attribute and validation patterns.
+
+What is ClientLib?
+
+Ans: Client-side Libraries (ClientLibs) manage CSS and JavaScript files in AEM. They improve performance and allow structured organization of front-end assets.
+
+What is extraClientLib?
+
+Extra Client Libraries allow specific styling or scripts to be loaded only when necessary. They can be created similarly to ClientLibs but with the extraClientLibs attribute.
